@@ -1,5 +1,5 @@
 # How To Install NGROK In Termux 
-
+![Image](https://github.com/user-attachments/assets/f670a97e-c3b1-41d3-b4cd-5eff1aa0535d)
 
 
 ## Installation
