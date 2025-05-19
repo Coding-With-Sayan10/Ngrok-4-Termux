@@ -27,7 +27,7 @@ Replace YOUR_AUTH_TOKEN with the token from your ngrok dashboard.
 ngrok http 8080
 ```
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Developer Or Hacker from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
